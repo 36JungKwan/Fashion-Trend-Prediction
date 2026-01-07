@@ -3,6 +3,9 @@
 This project leverages XGBoost Classifier to predict fashion trends by analyzing product attributes such as color, size, and style. The goal is to help fashion businesses optimize production strategies and enhance customer satisfaction.
 
 ![demo 1](img/img1.jpg)
+![demo 2](img/img2.jpg)
+![demo 3](img/img3.jpg)
+![demo 4](img/img4.jpg)
 
 ### How to Run
 
