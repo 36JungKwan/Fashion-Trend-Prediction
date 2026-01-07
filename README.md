@@ -37,25 +37,22 @@ To run this project locally, follow these steps:
    cd Fashion-Trend-Prediction
    ```
 
-
-1. **Clone the repository:**
+2. **Install requirements:**
    ```bash
-   git clone [https://github.com/36JungKwan/Fashion-Trend-Prediction.git](https://github.com/36JungKwan/Fashion-Trend-Prediction.git)
-   cd Fashion-Trend-Prediction
+   pip install -r requirements.txt
+   ```
+
+3. **Launch the application:**
+   ```bash
+   streamlit run app.py
    ```
 
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/36JungKwan/Fashion-Trend-Prediction.git](https://github.com/36JungKwan/Fashion-Trend-Prediction.git)
-   cd Fashion-Trend-Prediction
-   ```
-
-
-
-### Streamlit Deployment
+## 🌐 Live Application
 
 The web app is deployed on Streamlit Cloud. Access it here: [Streamlit Web App](https://fashionn.streamlit.app/)
+
+## 📊 Sample Data for Testing
 
 Data sample for web testing: [Data sample](https://drive.google.com/file/d/1zxI2KJoxPOXxZL406qfLOf4Aek7-QR-C/view?usp=drive_link)
 
