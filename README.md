@@ -1,25 +1,57 @@
-# Machine Learning-based Trend Forecasting
+# 👗 Fashion Trend Prediction with Machine Learning
 
-This project leverages XGBoost Classifier to predict fashion trends by analyzing product attributes such as color, size, and style. The goal is to help fashion businesses optimize production strategies and enhance customer satisfaction.
+This project leverages the **XGBoost Classifier** to predict fashion trends by analyzing key product attributes such as color, size, and style. It is designed to help fashion brands and retailers optimize production strategies and stay ahead of market shifts.
+
+---
+
+## 📸 Demo Screenshots
 
 ![demo 1](img/img1.jpg)
 ![demo 2](img/img2.jpg)
 ![demo 3](img/img3.jpg)
 ![demo 4](img/img4.jpg)
 
-### How to Run
+## ✨ Features
+* **Trend Forecasting:** Predicts the market viability of fashion items.
+* **Feature Importance:** Identifies which attributes (Color, Style, etc.) drive trends.
+* **Interactive UI:** A sleek web dashboard built with **Streamlit**.
+* **Scalable Model:** Uses XGBoost for high-speed and high-accuracy classification.
 
-- Clone the repository:
+---
 
-    git clone https://github.com/36JungKwan/streamlit_fashion
+## 🛠️ Technology Stack
+* **Language:** Python
+* **ML Model:** XGBoost Classifier
+* **Library:** Scikit-learn, Pandas, NumPy
+* **Frontend:** Streamlit
 
-- Install dependencies:
+---
 
-    pip install -r requirements.txt
+## 💻 Local Setup & Installation
 
-- Run the Streamlit app:
+To run this project locally, follow these steps:
 
-    streamlit run app.py
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/36JungKwan/Fashion-Trend-Prediction.git](https://github.com/36JungKwan/Fashion-Trend-Prediction.git)
+   cd Fashion-Trend-Prediction
+   ```
+
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/36JungKwan/Fashion-Trend-Prediction.git](https://github.com/36JungKwan/Fashion-Trend-Prediction.git)
+   cd Fashion-Trend-Prediction
+   ```
+
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/36JungKwan/Fashion-Trend-Prediction.git](https://github.com/36JungKwan/Fashion-Trend-Prediction.git)
+   cd Fashion-Trend-Prediction
+   ```
+
+
 
 ### Streamlit Deployment
 
